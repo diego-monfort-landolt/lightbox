@@ -72,9 +72,10 @@ display: none;
 }
 
 .lightbox .grande {
-    width: 80%;
-    height: 80vh;
+    width: 60%;
+    height: 60vh;
     background-color: aqua;
+    background-size: cover;
 
     box-shadow: .5em .5em .5em rgba(120, 45, 2, 0.647);
     border: none;
